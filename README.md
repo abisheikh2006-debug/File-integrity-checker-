@@ -1,4 +1,15 @@
 # File Integrity Checker
+COMPANY NAME: CODTECH IT SOLUTIONS
+
+*NAME": ANBUSELVAN ABISHEIKH R 
+
+INTERN ID: CT04DH2590
+
+DOMAIN:CYBER SECURITY AND ETHICAL HACKING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTHOSH KUMAR
 
 This is a basic Python-based File Integrity Checker developed as part of a cybersecurity and ethical hacking internship.
 
